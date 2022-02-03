@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LearnKotlin</string>
+    <string name="button">button</string>
+    <string name="weather">weather</string>
+</resources>
